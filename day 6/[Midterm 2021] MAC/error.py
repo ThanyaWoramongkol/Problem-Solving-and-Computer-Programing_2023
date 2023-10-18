@@ -1,0 +1,2 @@
+"""ERROR"""
+print("ERROR")
